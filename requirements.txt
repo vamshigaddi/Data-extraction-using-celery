@@ -1,0 +1,6 @@
+celery==5.3.6
+feedparser==6.0.11
+python-dateutil== 2.8.2
+SQLAlchemy== 2.0.25
+mysql-connector-python==8.1.0
+nltk==3.8.1
